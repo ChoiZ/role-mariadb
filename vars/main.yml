@@ -1,0 +1,9 @@
+---
+mariadb:
+    install: '1'
+    root_password: root
+    database: db
+    user: user
+    password: password
+    dump: ''
+    dump_cmd: '' # mysqldump or something like that
